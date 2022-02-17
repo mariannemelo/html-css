@@ -1,0 +1,30 @@
+@charset: UTF 8px;
+/* id = #
+class = . */
+
+body {
+    background-color: rgb(157, 236, 236);
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: rgb(244, 247, 244);
+}
+h1#principal{
+    text-align: center;
+    background: rgb(60, 255, 109);
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+h2.basico{
+    color: rgb(40, 248, 21);
+}
+h2.intermediario{
+color: rgb(250, 50, 15);
+}
+h2.avançado{
+color: rgb(7, 23, 247);
+}
+.destaque{
+    background: rgb(0, 53, 26);
+}
